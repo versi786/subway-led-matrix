@@ -1,0 +1,4 @@
+[submodule "submodules/matrix"]
+    path = submodules/matrix
+    url = git@github.com:hzeller/rpi-rgb-led-matrix.git
+    ignore = dirty
